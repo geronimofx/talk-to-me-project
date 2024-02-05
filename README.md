@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
+
 # talk-to-me-project# Talk to Me!
 
 Este projeto foi elaborado durante a **Semana do Herói 3ª Edição** organizada pela [**Hero Code**](https://herocode.com.br/), com a orientação da mentora [**Alexia Kattah**](https://www.linkedin.com/in/alexiakattah/).
